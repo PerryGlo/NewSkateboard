@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C4308BA1D2DAE790097BCBC /* download.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7C4308B91D2DAE790097BCBC /* download.jpeg */; };
+		7C9D5F321D259D3C00270ADB /* Moose-Blank-Skateboard-Deck.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D5F311D259D3C00270ADB /* Moose-Blank-Skateboard-Deck.jpg */; };
+		7C9D5F341D25A40A00270ADB /* STEP-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D5F331D25A40A00270ADB /* STEP-1.png */; };
+		7C9D5F361D25A41E00270ADB /* 13. MOB grade grip tape.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D5F351D25A41E00270ADB /* 13. MOB grade grip tape.JPG */; };
+		7C9D5F381D25A51100270ADB /* 31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D5F371D25A51100270ADB /* 31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg */; };
+		7C9D5F3A1D25A64B00270ADB /* STEP-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D5F391D25A64B00270ADB /* STEP-2.png */; };
 		7CCAB0371D20840F003342E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCAB0361D20840F003342E2 /* AppDelegate.swift */; };
 		7CCAB0391D20840F003342E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCAB0381D20840F003342E2 /* ViewController.swift */; };
 		7CCAB03C1D208410003342E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CCAB03A1D208410003342E2 /* Main.storyboard */; };
@@ -14,6 +20,21 @@
 		7CCAB0411D208410003342E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CCAB03F1D208410003342E2 /* LaunchScreen.storyboard */; };
 		7CCAB04C1D208410003342E2 /* SkateBoard_design_BlueprintsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCAB04B1D208410003342E2 /* SkateBoard_design_BlueprintsTests.swift */; };
 		7CCAB0571D208410003342E2 /* SkateBoard_design_BlueprintsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCAB0561D208410003342E2 /* SkateBoard_design_BlueprintsUITests.swift */; };
+		7CCAB0651D208645003342E2 /* skateboard_PNG11712.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CCAB0641D208645003342E2 /* skateboard_PNG11712.png */; };
+		7CCAB06B1D209066003342E2 /* Perry-Skateboard-Creator.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CCAB06A1D209066003342E2 /* Perry-Skateboard-Creator.png */; };
+		7CD26C6C1D2D7AC900454156 /* Google-plus-png-logo-download.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CD26C691D2D7AC900454156 /* Google-plus-png-logo-download.png */; };
+		7CD26C6D1D2D7AC900454156 /* fb-art.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CD26C6A1D2D7AC900454156 /* fb-art.jpg */; };
+		7CD26C6E1D2D7AC900454156 /* Twitter_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CD26C6B1D2D7AC900454156 /* Twitter_Logo.png */; };
+		7CF18DE21D25C9480025EB05 /* Final-Step.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF18DE11D25C9480025EB05 /* Final-Step.png */; };
+		7CF25E921D3447750083FEE3 /* BOARD-CREATOR.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF25E911D3447750083FEE3 /* BOARD-CREATOR.png */; };
+		7CF2CAF31D38034C00B7FEC5 /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF2CAF21D38034C00B7FEC5 /* ViewTwo.swift */; };
+		7CF2CAF51D3803D000B7FEC5 /* ViewThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF2CAF41D3803D000B7FEC5 /* ViewThree.swift */; };
+		7CF2CAF71D38043A00B7FEC5 /* ViewFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF2CAF61D38043A00B7FEC5 /* ViewFour.swift */; };
+		7CF2CAF91D380BFD00B7FEC5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2CAF81D380BFD00B7FEC5 /* GoogleService-Info.plist */; };
+		7CF7B9771D34174300326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CF7B9761D34174300326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */; };
+		7CF7B9791D34174D00326A5B /* Optional-Want-trucks-and.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF7B9781D34174D00326A5B /* Optional-Want-trucks-and.png */; };
+		7CF7B97B1D34175400326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CF7B97A1D34175400326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */; };
+		7CF7B97D1D34180300326A5B /* 61Z4Zqn8lCL._SL1500_.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CF7B97C1D34180300326A5B /* 61Z4Zqn8lCL._SL1500_.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +55,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C4308B91D2DAE790097BCBC /* download.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = download.jpeg; sourceTree = "<group>"; };
+		7C9D5F311D259D3C00270ADB /* Moose-Blank-Skateboard-Deck.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Moose-Blank-Skateboard-Deck.jpg"; sourceTree = "<group>"; };
+		7C9D5F331D25A40A00270ADB /* STEP-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "STEP-1.png"; sourceTree = "<group>"; };
+		7C9D5F351D25A41E00270ADB /* 13. MOB grade grip tape.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "13. MOB grade grip tape.JPG"; sourceTree = "<group>"; };
+		7C9D5F371D25A51100270ADB /* 31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg"; sourceTree = "<group>"; };
+		7C9D5F391D25A64B00270ADB /* STEP-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "STEP-2.png"; sourceTree = "<group>"; };
 		7CCAB0331D20840F003342E2 /* SkateBoard design Blueprints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SkateBoard design Blueprints.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CCAB0361D20840F003342E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CCAB0381D20840F003342E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +74,21 @@
 		7CCAB0521D208410003342E2 /* SkateBoard design BlueprintsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SkateBoard design BlueprintsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CCAB0561D208410003342E2 /* SkateBoard_design_BlueprintsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkateBoard_design_BlueprintsUITests.swift; sourceTree = "<group>"; };
 		7CCAB0581D208410003342E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CCAB0641D208645003342E2 /* skateboard_PNG11712.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skateboard_PNG11712.png; sourceTree = "<group>"; };
+		7CCAB06A1D209066003342E2 /* Perry-Skateboard-Creator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Perry-Skateboard-Creator.png"; sourceTree = "<group>"; };
+		7CD26C691D2D7AC900454156 /* Google-plus-png-logo-download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Google-plus-png-logo-download.png"; sourceTree = "<group>"; };
+		7CD26C6A1D2D7AC900454156 /* fb-art.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fb-art.jpg"; sourceTree = "<group>"; };
+		7CD26C6B1D2D7AC900454156 /* Twitter_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Twitter_Logo.png; sourceTree = "<group>"; };
+		7CF18DE11D25C9480025EB05 /* Final-Step.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Final-Step.png"; sourceTree = "<group>"; };
+		7CF25E911D3447750083FEE3 /* BOARD-CREATOR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BOARD-CREATOR.png"; sourceTree = "<group>"; };
+		7CF2CAF21D38034C00B7FEC5 /* ViewTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
+		7CF2CAF41D3803D000B7FEC5 /* ViewThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewThree.swift; sourceTree = "<group>"; };
+		7CF2CAF61D38043A00B7FEC5 /* ViewFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewFour.swift; sourceTree = "<group>"; };
+		7CF2CAF81D380BFD00B7FEC5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		7CF7B9761D34174300326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c6898f0756fb74c3f1feb1b0fae4656b.jpg; sourceTree = "<group>"; };
+		7CF7B9781D34174D00326A5B /* Optional-Want-trucks-and.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Optional-Want-trucks-and.png"; sourceTree = "<group>"; };
+		7CF7B97A1D34175400326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c6898f0756fb74c3f1feb1b0fae4656b.jpg; sourceTree = "<group>"; };
+		7CF7B97C1D34180300326A5B /* 61Z4Zqn8lCL._SL1500_.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 61Z4Zqn8lCL._SL1500_.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +141,31 @@
 			children = (
 				7CCAB0361D20840F003342E2 /* AppDelegate.swift */,
 				7CCAB0381D20840F003342E2 /* ViewController.swift */,
+				7CF2CAF21D38034C00B7FEC5 /* ViewTwo.swift */,
+				7CF2CAF41D3803D000B7FEC5 /* ViewThree.swift */,
+				7CF2CAF61D38043A00B7FEC5 /* ViewFour.swift */,
+				7C9D5F391D25A64B00270ADB /* STEP-2.png */,
+				7C9D5F371D25A51100270ADB /* 31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg */,
+				7CD26C6B1D2D7AC900454156 /* Twitter_Logo.png */,
+				7C9D5F311D259D3C00270ADB /* Moose-Blank-Skateboard-Deck.jpg */,
+				7CCAB0641D208645003342E2 /* skateboard_PNG11712.png */,
+				7C9D5F331D25A40A00270ADB /* STEP-1.png */,
+				7CD26C6A1D2D7AC900454156 /* fb-art.jpg */,
+				7CF18DE11D25C9480025EB05 /* Final-Step.png */,
+				7C4308B91D2DAE790097BCBC /* download.jpeg */,
+				7CF7B97A1D34175400326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */,
+				7CF25E911D3447750083FEE3 /* BOARD-CREATOR.png */,
+				7C9D5F351D25A41E00270ADB /* 13. MOB grade grip tape.JPG */,
+				7CF7B9761D34174300326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg */,
+				7CCAB06A1D209066003342E2 /* Perry-Skateboard-Creator.png */,
+				7CF7B9781D34174D00326A5B /* Optional-Want-trucks-and.png */,
+				7CF7B97C1D34180300326A5B /* 61Z4Zqn8lCL._SL1500_.jpg */,
+				7CD26C691D2D7AC900454156 /* Google-plus-png-logo-download.png */,
 				7CCAB03A1D208410003342E2 /* Main.storyboard */,
 				7CCAB03D1D208410003342E2 /* Assets.xcassets */,
 				7CCAB03F1D208410003342E2 /* LaunchScreen.storyboard */,
 				7CCAB0421D208410003342E2 /* Info.plist */,
+				7CF2CAF81D380BFD00B7FEC5 /* GoogleService-Info.plist */,
 			);
 			path = "SkateBoard design Blueprints";
 			sourceTree = "<group>";
@@ -229,9 +292,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CF7B9771D34174300326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg in Resources */,
 				7CCAB0411D208410003342E2 /* LaunchScreen.storyboard in Resources */,
+				7C9D5F381D25A51100270ADB /* 31-Original-9-Layers-Panel-Maple-Skateboard-Deck-Free-DIY-Blank-Griptape-Skate-board-Deck-Free.jpg in Resources */,
+				7C4308BA1D2DAE790097BCBC /* download.jpeg in Resources */,
+				7CF7B97B1D34175400326A5B /* c6898f0756fb74c3f1feb1b0fae4656b.jpg in Resources */,
+				7C9D5F361D25A41E00270ADB /* 13. MOB grade grip tape.JPG in Resources */,
+				7CD26C6D1D2D7AC900454156 /* fb-art.jpg in Resources */,
 				7CCAB03E1D208410003342E2 /* Assets.xcassets in Resources */,
+				7CCAB0651D208645003342E2 /* skateboard_PNG11712.png in Resources */,
+				7CD26C6C1D2D7AC900454156 /* Google-plus-png-logo-download.png in Resources */,
+				7CCAB06B1D209066003342E2 /* Perry-Skateboard-Creator.png in Resources */,
 				7CCAB03C1D208410003342E2 /* Main.storyboard in Resources */,
+				7CF7B97D1D34180300326A5B /* 61Z4Zqn8lCL._SL1500_.jpg in Resources */,
+				7CF25E921D3447750083FEE3 /* BOARD-CREATOR.png in Resources */,
+				7CF18DE21D25C9480025EB05 /* Final-Step.png in Resources */,
+				7C9D5F321D259D3C00270ADB /* Moose-Blank-Skateboard-Deck.jpg in Resources */,
+				7C9D5F3A1D25A64B00270ADB /* STEP-2.png in Resources */,
+				7CF7B9791D34174D00326A5B /* Optional-Want-trucks-and.png in Resources */,
+				7CD26C6E1D2D7AC900454156 /* Twitter_Logo.png in Resources */,
+				7C9D5F341D25A40A00270ADB /* STEP-1.png in Resources */,
+				7CF2CAF91D380BFD00B7FEC5 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +338,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CCAB0391D20840F003342E2 /* ViewController.swift in Sources */,
+				7CF2CAF71D38043A00B7FEC5 /* ViewFour.swift in Sources */,
+				7CF2CAF51D3803D000B7FEC5 /* ViewThree.swift in Sources */,
 				7CCAB0371D20840F003342E2 /* AppDelegate.swift in Sources */,
+				7CF2CAF31D38034C00B7FEC5 /* ViewTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +566,7 @@
 				7CCAB05D1D208410003342E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CCAB05E1D208410003342E2 /* Build configuration list for PBXNativeTarget "SkateBoard design BlueprintsTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +575,7 @@
 				7CCAB0601D208410003342E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CCAB0611D208410003342E2 /* Build configuration list for PBXNativeTarget "SkateBoard design BlueprintsUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +584,7 @@
 				7CCAB0631D208410003342E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
